@@ -1,0 +1,50 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.dist-info/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.venv/bin/
+.venv/lib/
+.venv/include/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables & secrets
+.env
+*.env
+config.py
+instance/
+
+# Logs & debug files
+logs/
+*.log
+debug.log
+
+# Flask cache & sessions
+flask_session/
+*.db
+*.sqlite3
+instance/
+
+# MacOS system files
+.DS_Store
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.iml
+
+# Docker files (if using Docker)
+docker-compose.yml
+.Dockerfile
+
+# Deployment files
+*.pem
+*.crt
+*.key
