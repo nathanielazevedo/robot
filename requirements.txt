@@ -2,7 +2,7 @@ alembic==1.13.0
 aniso8601==9.0.1
 anyio==3.7.0
 appnope==0.1.3
-argcomplete @ file:///private/tmp/python-argcomplete-20231211-41899-s7v75l/argcomplete-3.2.1
+# argcomplete @ file:///private/tmp/python-argcomplete-20231211-41899-s7v75l/argcomplete-3.2.1
 asgiref==3.7.2
 asttokens==2.2.1
 backcall==0.2.0
