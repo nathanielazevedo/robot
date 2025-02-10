@@ -12,15 +12,15 @@ boto3==1.33.11
 botocore==1.33.11
 cachetools==5.3.2
 certifi==2023.11.17
-cffi @ file:///private/tmp/cffi-20231211-40040-va2lvh/cffi-1.16.0
+# cffi @ file:///private/tmp/cffi-20231211-40040-va2lvh/cffi-1.16.0
 charset-normalizer==3.3.2
 click==8.1.7
 colorlog==6.7.0
-cryptography @ file:///private/tmp/python-cryptography-20231127-5983-mtb0t9/cryptography-41.0.7
+# cryptography @ file:///private/tmp/python-cryptography-20231127-5983-mtb0t9/cryptography-41.0.7
 decorator==5.1.1
 distlib==0.3.7
 ecdsa==0.18.0
-editables @ file:///private/tmp/python-hatchling--editables-20231226-5042-9qrz2a/editables-0.5
+# editables @ file:///private/tmp/python-hatchling--editables-20231226-5042-9qrz2a/editables-0.5
 executing==1.2.0
 fastjsonschema==2.17.1
 filelock==3.13.1
@@ -61,12 +61,12 @@ mypy-extensions==1.0.0
 oauthlib==3.2.2
 packaging==23.2
 parso==0.8.3
-pathspec @ file:///private/tmp/python-pathspec-20231212-4674-kki6wg/pathspec-0.12.1
+# pathspec @ file:///private/tmp/python-pathspec-20231212-4674-kki6wg/pathspec-0.12.1
 pexpect==4.8.0
 pickleshare==0.7.5
 pipenv==2023.11.15
 platformdirs==3.11.0
-pluggy @ file:///private/tmp/python-pluggy-20231119-4749-5bc38g/pluggy-1.3.0
+# pluggy @ file:///private/tmp/python-pluggy-20231119-4749-5bc38g/pluggy-1.3.0
 prompt-toolkit==3.0.38
 protobuf==4.25.3
 psycopg2-binary==2.9.9
@@ -74,17 +74,17 @@ ptyprocess==0.7.0
 pure-eval==0.2.2
 pyasn1==0.5.1
 pyasn1-modules==0.3.0
-pycparser @ file:///private/tmp/pycparser-20231211-24854-j7ycwo/pycparser-2.21
+# pycparser @ file:///private/tmp/pycparser-20231211-24854-j7ycwo/pycparser-2.21
 Pygments==2.15.1
 PyJWT==2.8.0
 pyparsing==3.1.1
-python-dateutil @ file:///private/tmp/python-dateutil-20231119-4809-10tr8ez/python-dateutil-2.8.2
+# python-dateutil @ file:///private/tmp/python-dateutil-20231119-4809-10tr8ez/python-dateutil-2.8.2
 python-dotenv==1.0.0
 python-engineio==4.11.2
 python-jose==3.3.0
 python-socketio==5.12.1
 pytz==2023.3.post1
-PyYAML @ file:///private/tmp/pyyaml-20231018-5457-utbrds/PyYAML-6.0.1
+# PyYAML @ file:///private/tmp/pyyaml-20231018-5457-utbrds/PyYAML-6.0.1
 reactpy==1.0.0
 requests==2.31.0
 requests-oauthlib==1.3.1
@@ -96,7 +96,7 @@ sniffio==1.3.0
 SQLAlchemy==2.0.23
 stack-data==0.6.2
 traitlets==5.9.0
-trove-classifiers @ file:///private/tmp/python-trove-classifiers-20240108-4532-17ylhs/trove-classifiers-2024.1.8
+# trove-classifiers @ file:///private/tmp/python-trove-classifiers-20240108-4532-17ylhs/trove-classifiers-2024.1.8
 typing_extensions==4.8.0
 uritemplate==4.1.1
 urllib3==2.0.7
